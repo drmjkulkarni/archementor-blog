@@ -1,8 +1,9 @@
 baseURL = "https://archementor-blog.pages.dev/"
 languageCode = "en-us"
 title = "ARCHE Blog"
-theme = ""
-paginate = 10
+
+[pagination]
+  pagerSize = 10
 
 [params]
   site_name = "ARCHEMENTOR"
