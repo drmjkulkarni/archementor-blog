@@ -1,0 +1,52 @@
+baseURL = "https://archementor-blog.pages.dev/"
+languageCode = "en-us"
+title = "ARCHE Blog"
+theme = ""
+paginate = 10
+
+[params]
+  site_name = "ARCHEMENTOR"
+  description = "Critical appraisal simplified — Evidence made easy for clinicians."
+  logo = "/ChatGPT Image Oct 17, 2025, 09_02_31 PM.png"
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Critical Appraisal Tool"
+    url = "/critical-appraisal/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Guide"
+    url = "/guide/"
+    weight = 4
+
+  [[menu.main]]
+    name = "About Us"
+    url = "/about/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Privacy"
+    url = "/privacy/"
+    weight = 6
+
+  [[menu.main]]
+    name = "Terms and Conditions"
+    url = "/terms/"
+    weight = 7
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 8
