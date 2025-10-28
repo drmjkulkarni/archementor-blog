@@ -1,8 +1,7 @@
 ---
 title: "Why Should You Care About Medical Research?"
 date: 2025-10-28T20:50:28
-description: "Critical appraisal skills are need of the hour in clinical practice"
-draft: false
+summary: "Critical appraisal skills are need of the hour in clinical practice"
 ---
 
 **Why Should You Care About Medical Research?**
