@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <article class="blog-post">
+    <h1 class="text-primary">{{ .Title }}</h1>
+    <p><small>Published on {{ .Date.Format "January 2, 2006" }}</small></p>
+    <hr>
+    <div class="blog-content">
+      {{ .Content }}
+    </div>
+    <a href="/blog/" class="btn btn-outline-primary mt-4">← Back to Blog</a>
+  </article>
+{{ end }}
